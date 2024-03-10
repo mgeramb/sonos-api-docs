@@ -217,7 +217,18 @@
         "link": "https://github.com/vmichalak"
       },
       "usesGenerator": false
-    }            
-
+    },
+    {
+      "name": "SonosArduinoLocalUpnpAPI",
+      "description": "Sonos-ESP inspired successor library for controlling Sonos speakers over the unofficial local UPNP API.",
+      "repository": "https://github.com/mgeramb/SonosArduinoLocalUpnpAPI",
+      "language": "C++",
+      "tags": ["Arduino", "ESP32", "C++"],
+      "author": {
+        "name": "Michael Geramb",
+        "link": "https://github.com/mgeramb"
+      },
+      "usesGenerator": false
+    }
   ]
 }
